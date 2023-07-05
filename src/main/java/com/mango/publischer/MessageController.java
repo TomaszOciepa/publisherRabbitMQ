@@ -1,5 +1,6 @@
 package com.mango.publischer;
 
+import notification.Notification;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.mango.publischer;
+package notification;
 
 import java.io.Serializable;
 
