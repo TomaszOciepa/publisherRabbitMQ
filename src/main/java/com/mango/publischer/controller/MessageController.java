@@ -1,6 +1,6 @@
-package com.mango.publischer;
+package com.mango.publischer.controller;
 
-import notification.Notification;
+import com.mango.publischer.model.Notification;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.web.bind.annotation.*;
 
